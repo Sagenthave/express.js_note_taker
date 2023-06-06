@@ -63,6 +63,6 @@ router.delete("/api/notes/:id", (req, res) => {
     });
 });
 
-// EDIT EXISTING NOTES
+
 
 module.exports = router;
