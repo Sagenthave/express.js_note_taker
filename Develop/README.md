@@ -1,5 +1,9 @@
 # Note Taker
 
+![screenshot](/Develop/public/assets/Images/Screenshot%202023-06-06%20at%206.15.18%20PM.png)
+
+
+
 ## User Story
 - AS A small business owner
 - I WANT to be able to write and save notes
@@ -23,17 +27,16 @@
 ## Starter Code Source
 https://github.com/coding-boot-camp/miniature-eureka
 
-## Origin Work
-https://github.com/Sagenthave/note_taker 
-- Wasn't able to deploy on heroku but the work is the same and the commits can be viewed here
 
 ## Credits 
-Krishna (Assistant Instructor): Debugging, assistance in saving notes to page, &  deployment
-Tareque (Assistant Instructor): Deployment 
+- Krishna (Assistant Instructor): Debugging, assistance in saving notes to page, &  deployment
+- Tareque (Assistant Instructor): Deployment 
 
 ## Deployment 
-https://shrouded-atoll-94031.herokuapp.com/ 
-https://github.com/Sagenthave/express.js_note_taker 
+- GitHub: https://github.com/Sagenthave/express.js_note_taker 
+- Website: https://shrouded-atoll-94031.herokuapp.com/notes 
+#### Origin Work
+https://github.com/Sagenthave/note_taker (Wasn't able to deploy on heroku but the work is the same and the commits can be viewed here)
 
 
 
